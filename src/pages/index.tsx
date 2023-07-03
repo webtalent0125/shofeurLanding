@@ -20,8 +20,6 @@ export default function Home() {
       <Guid />
       <Destinations />
       <Rentals />
-      <Fleet />
-      <Join />
     </Page>
   )
 }
