@@ -1,6 +1,3 @@
-import { Container } from '@/components/ui'
-import Image from 'next/legacy/image'
-import logo from '@/assets/logo.webp'
 import { GrMail } from 'react-icons/gr'
 import {
   BsLinkedin,
@@ -10,7 +7,6 @@ import {
   BsFacebook,
   BsInstagram,
 } from 'react-icons/bs'
-import Link from 'next/link'
 
 const Footer = () => {
   return (
